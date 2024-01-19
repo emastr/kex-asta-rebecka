@@ -6,7 +6,8 @@ Det finns tre viktiga moment (2 teoretiska och 1 praktiskt)
 
 # Första mötet
 * Hur ofta möta
-  * Ett möte i veckan (fredag 10)
+  * Ett möte i veckan (fredag 10) 
+  * på matteavdelningen
   * hörs via mail
 * Första februari, titel + projektplan
   * Förliteraturstudie
