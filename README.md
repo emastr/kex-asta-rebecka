@@ -1,6 +1,4 @@
 # KEX: Formoptimering med Randintegralmetoder.
-
-
 Det finns tre viktiga moment (2 teoretiska och 1 praktiskt)
 1. Förstå Randintegralmetoder
 2. Förstå formoptimering
@@ -8,8 +6,8 @@ Det finns tre viktiga moment (2 teoretiska och 1 praktiskt)
 
 # Första mötet
 * Hur ofta möta
-* När möta
-* Maila / chatt / etc
+  * Ett möte i veckan (fredag 10)
+  * hörs via mail
 * Första februari, titel + projektplan
   * Förliteraturstudie
     * Identifiera ett lämpligt problem att studera (tillämpning)
